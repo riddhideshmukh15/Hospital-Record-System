@@ -85,4 +85,4 @@ This project was created to practice basic Python concepts such as:
 
 **Riddhi Deshmukh**
 
-### ⭐ If you like this project, consider giving the repository a star!
+
